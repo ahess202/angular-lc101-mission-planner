@@ -1,0 +1,10 @@
+.box {
+    border: dashed black 1px;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+li {
+    text-decoration: overline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,9 @@
+.box {
+    border: dashed black 1px;
+    padding: 10px;
+    background-color: lightgreen;
+}
+li {
+    font-family: monospace;
+    text-decoration: line-through;
+}

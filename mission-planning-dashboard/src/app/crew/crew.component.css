@@ -1,0 +1,9 @@
+.box {
+    border: dashed black 1px;
+    padding: 10px;
+    background-color: lightsalmon;
+}
+
+li {
+    text-decoration: underline;
+}
